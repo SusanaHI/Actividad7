@@ -1,0 +1,18 @@
+//Clase Principal
+public class Principal {
+	
+	//Constructor
+	public Principal() {
+		
+	}
+	
+	//Método Main	
+	public static void main(String[] args) {
+		
+		Operaciones obj1 = new Operaciones();
+		obj1.NumPrimos();
+		obj1.NumFibonnaci();
+		
+	}
+
+}
